@@ -37,28 +37,3 @@ elif(p==c):
       print('league is tie')
 else:
       print('something went wrong')
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-        
-        
-
-
-
-
-
-
-
-
-
