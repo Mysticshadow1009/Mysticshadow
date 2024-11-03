@@ -750,6 +750,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-# 2 june 23:38 2024
-# edited for 30 min in 29 june 8:30 2024
-# worked on 30 june 2024  
