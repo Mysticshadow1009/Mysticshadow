@@ -57,14 +57,3 @@ if(correct()):
     print("thank you")
 else:
     print('game tie')
-
-    
-
-
-    
-    
-
-
-
-
-
