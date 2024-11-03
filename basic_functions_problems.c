@@ -1,7 +1,4 @@
-
-
-//**********   FUNCTIONS PROBLEMS   **************
-
+//**********  BASIC FUNCTIONS PROBLEMS IN C LANGUAGE **************
 
 #include<math.h>
 #include<stdio.h>
